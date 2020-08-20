@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Give-me-Five/static/css/main.93afa5bd.chunk.css",
+    "main.js": "/Give-me-Five/static/js/main.f1060964.chunk.js",
+    "main.js.map": "/Give-me-Five/static/js/main.f1060964.chunk.js.map",
+    "runtime-main.js": "/Give-me-Five/static/js/runtime-main.907a2e04.js",
+    "runtime-main.js.map": "/Give-me-Five/static/js/runtime-main.907a2e04.js.map",
+    "static/js/2.9c50009e.chunk.js": "/Give-me-Five/static/js/2.9c50009e.chunk.js",
+    "static/js/2.9c50009e.chunk.js.map": "/Give-me-Five/static/js/2.9c50009e.chunk.js.map",
+    "index.html": "/Give-me-Five/index.html",
+    "precache-manifest.c8aec0a27a9f862b9677213df06ca938.js": "/Give-me-Five/precache-manifest.c8aec0a27a9f862b9677213df06ca938.js",
+    "service-worker.js": "/Give-me-Five/service-worker.js",
+    "static/css/main.93afa5bd.chunk.css.map": "/Give-me-Five/static/css/main.93afa5bd.chunk.css.map",
+    "static/js/2.9c50009e.chunk.js.LICENSE.txt": "/Give-me-Five/static/js/2.9c50009e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907a2e04.js",
+    "static/js/2.9c50009e.chunk.js",
+    "static/css/main.93afa5bd.chunk.css",
+    "static/js/main.f1060964.chunk.js"
+  ]
+}
